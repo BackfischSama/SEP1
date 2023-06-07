@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdd4ea24-ff7e-44d5-8382-8c1302d2135a" name="Changes" comment="Teil 3-5 Der Dritten Abgabe (nicht fertig)">
+      <change afterPath="$PROJECT_DIR$/../SEP01/SEP1_01.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP01/SEP1_Aufgabe01.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP01/hallo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/._se1lab-main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/._.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/._.gitlab-ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/._LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/._README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/._build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/._docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/._gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/._gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/._gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/._src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/gradle/._wrapper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/gradle/wrapper/._gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/gradle/wrapper/._gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/._main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/._test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/._java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/._resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/._com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/._haw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/._srs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/._customerservice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._CourseNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._CourseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._CustomerAlreadyExistingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._CustomerFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._CustomerNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._CustomerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._Lecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._LecturerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._MailGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._MembershipMailNotSent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/java/com/haw/srs/customerservice/._PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/main/resources/._application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/test/._java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/test/java/._com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/test/java/com/._haw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/test/java/com/haw/._srs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/test/java/com/haw/srs/._customerservice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/test/java/com/haw/srs/customerservice/._CourseServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/test/java/com/haw/srs/customerservice/._LecturerFacadeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/test/java/com/haw/srs/customerservice/._LecturerRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/test/java/com/haw/srs/customerservice/._LecturerServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP02_02/__MACOSX/se1lab-main/src/test/java/com/haw/srs/customerservice/._PhoneNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP1_02_Abgabe.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/SEP1_02_Abgabe_pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/.gitlab-ci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/._main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/._test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/._java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/._resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/._com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/._haw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/._srs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/._customerservice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._CourseNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._CourseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._CustomerAlreadyExistingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._CustomerFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._CustomerNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._CustomerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._Lecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._LecturerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._MailGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._MembershipMailNotSent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/._PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/CourseNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/CourseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/CustomerAlreadyExistingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/CustomerFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/CustomerNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/CustomerNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/Lecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/MailGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/MembershipMailNotSent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/Participant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/ParticipantCreateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/ParticipantReposetory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/java/com/haw/srs/customerservice/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/resources/._application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/._java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/._com" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/._haw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/._srs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/._customerservice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/customerservice/._CourseServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/customerservice/._LecturerFacadeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/customerservice/._LecturerRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/customerservice/._LecturerServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/customerservice/._PhoneNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/customerservice/CourseServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/customerservice/CustomerFacadeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/customerservice/CustomerRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/customerservice/CustomerServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SEP02/se1lab-main/src/test/java/com/haw/srs/customerservice/PhoneNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/se1lab_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/OnlineshopTest/KundenServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/OnlineshopTest/MitarbeiterServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/OnlineshopTest/SortimentServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/OnlineshopTest/WarenKorbServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/com/example/ser03_onlineshop/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/Bezahlung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/Bezahlungsart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/Kunde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/KundenRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/KundenService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/Land.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/Lieferant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/LieferantRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/Mitarbeiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/MitarbeiterRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/MitarbeiterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/Sortiment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/SortimentIstLeerExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/SortimentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/SortimentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/Warenkorb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/WarenkorbIstLeerExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/WarenkorbRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Onlineshop/WarenkorbService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/ser03_onlineshop/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OnlineshopTest/KundenServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OnlineshopTest/MitarbeiterServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OnlineshopTest/SortimentServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/OnlineshopTest/WarenKorbServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sep1_abgabe_gruppe3_team5_davidrofler_mohamedtahsin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP1_01.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SEP1_Aufgabe01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hallo.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QqCrrUpUrVqkrA0SxdOjVpbppH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SEP02/se1lab-main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.37241378" />
+  </component>
+  <component name="RunManager" selected="Gradle.KundenServiceTest">
+    <configuration name="KundenServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;OnlineshopTest.KundenServiceTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KundenServiceTest.sortimentAnschauenErfolg" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;OnlineshopTest.KundenServiceTest.sortimentAnschauenErfolg&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="KundenServiceTest.sortimentAnschauenExeption" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;OnlineshopTest.KundenServiceTest.sortimentAnschauenExeption&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.KundenServiceTest" />
+        <item itemvalue="Gradle.KundenServiceTest.sortimentAnschauenExeption" />
+        <item itemvalue="Gradle.KundenServiceTest.sortimentAnschauenErfolg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdd4ea24-ff7e-44d5-8382-8c1302d2135a" name="Changes" comment="" />
+      <created>1686071925892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686071925892</updated>
+      <workItem from="1686071927738" duration="5986000" />
+      <workItem from="1686130853520" duration="17598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teil 3-5 Der Dritten Abgabe (nicht fertig)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teil 3-5 Der Dritten Abgabe (nicht fertig)" />
+  </component>
+</project>
