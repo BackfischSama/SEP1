@@ -1,46 +1,86 @@
 package OnlineshopTest;
 
-import Onlineshop.KundenRepository;
-import Onlineshop.KundenService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.extension.ExtendWith;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.boot.test.mock.mockito.MockBean;
-import org.springframework.test.context.junit.jupiter.SpringExtension;
 
-import static org.assertj.core.api.Assertions.assertThat;
-import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
-import static org.mockito.BDDMockito.given;
-import static org.mockito.Mockito.anyString;
-import static org.mockito.Mockito.when;
 
-import javax.persistence.CascadeType;
-import javax.persistence.FetchType;
-import javax.persistence.OneToMany;
-import java.util.ArrayList;
+
+import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.*;
+
+
+
+import Onlineshop.Kunde;
+import Onlineshop.KundenExistiertBereitsException;
+import Onlineshop.KundenRepository;
+import Onlineshop.KundenService;
+
+
 
 public class KundenServiceTest {
-
-    @Autowired
+    private KundenService kundenService;
     private KundenRepository kundenRepository;
 
-    @Autowired
-    @OneToMany(
-            cascade = {CascadeType.ALL},
-            fetch = FetchType.EAGER
-    )
-    private ArrayList sortiment = new ArrayList();
 
-    @Autowired
-    private KundenService kundenService;
 
     @BeforeEach
-    void setup(){kundenRepository.deleteAll();}
+    public void setUp() {
+        kundenRepository = mock(KundenRepository.class);
+        kundenService = new KundenService(kundenRepository);
+    }
+
+
 
     @Test
-    void Bacic(){
-        assertThat(1).isEqualTo(1);
+    public void testRegistrieren_WithValidData() throws KundenExistiertBereitsException {
+        // Arrange
+        String name = "John Doe";
+        String email = "johndoe@example.com";
+        String password = "password123";
+        Kunde kunde = new Kunde(name, email, password);
+
+
+
+        when(kundenRepository.save(any(Kunde.class))).thenReturn(kunde);
+
+
+
+        // Act
+        Kunde result = kundenService.registrieren(name, email, password);
+
+
+
+        // Assert
+        assertNotNull(result);
+        assertEquals(name, result.getName());
+        assertEquals(email, result.getEmail());
+        assertEquals(password, result.getPassword());
+        verify(kundenRepository, times(1)).save(any(Kunde.class));
+    }
+
+
+
+    @Test
+    public void testRegistrieren_WithExistingEmail() {
+        // Arrange
+        String name = "John Doe";
+        String email = "johndoe@example.com";
+        String password = "password123";
+
+
+
+        when(kundenRepository.existsByEmail(email)).thenReturn(true);
+
+
+
+        // Act
+        KundenExistiertBereitsException exception = assertThrows(KundenExistiertBereitsException.class, () ->
+                kundenService.registrieren(name, email, password));
+
+
+
+        // Assert
+        assertEquals("Ein Kunde mit der E-Mail-Adresse johndoe@example.com existiert bereits.", exception.getMessage());
+        verify(kundenRepository, times(0)).save(any(Kunde.class));
     }
 }

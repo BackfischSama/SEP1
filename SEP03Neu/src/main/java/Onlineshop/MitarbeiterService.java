@@ -27,4 +27,7 @@ public class MitarbeiterService {
     public SortimentRepository getSortimentRepositoryLeer() {
         return this.sortimentRepositoryLeer;
     }
+
+    public void setSortimentRepositoryLeer(SortimentRepository sortimentRepository) {
+    }
 }

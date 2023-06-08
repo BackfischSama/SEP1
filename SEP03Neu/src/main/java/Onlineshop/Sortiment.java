@@ -90,4 +90,7 @@ public class Sortiment implements Comparable {
     public List<Sortiment> getSortiment() {
         return this.sortiment;
     }
+
+    public void setAnzahl(int i) {
+    }
 }
