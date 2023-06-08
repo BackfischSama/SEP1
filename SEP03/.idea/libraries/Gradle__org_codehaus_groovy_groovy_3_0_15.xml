@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.codehaus.groovy:groovy:3.0.15">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/3.0.15/472c60adeb4e62e3a516e7c76da2df7c65348a9a/groovy-3.0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/3.0.15/8eba08b7010ec6006d6f95aa3ed6a5be6f8ec822/groovy-3.0.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

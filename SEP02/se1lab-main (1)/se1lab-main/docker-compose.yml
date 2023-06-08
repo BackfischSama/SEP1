@@ -1,0 +1,25 @@
+version: '3.9'
+
+networks:
+  my_docker_network:
+
+services:
+  mysql:
+    # use e.g. MySQL Shell (https://dev.mysql.com/doc/mysql-shell/8.0/en/):
+    #   mysqlsh -u root -h 127.0.0.1
+    #   \sql (Backslash in macOS: Shift+Option+7)
+    #   use <databasename>;
+    #   show tables;
+    #   select * from <table>;
+    #   \quit
+    image: mariadb:10.11.2
+    #    platform: linux/x86_64
+    #    image: mysql:8.0.28
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+    command: --default-authentication-plugin=mysql_native_password
+    ports:
+      - "3306:3306"
+    networks:
+      - my_docker_network
+
